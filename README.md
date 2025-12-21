@@ -1,6 +1,6 @@
 # Customer-Segmentation-using-K-Means-Clustering
 This repository contains an Unsupervised Machine Learning project focused on segmenting online shop customers into distinct groups based on their behavioral data.
-Here is the **README file** for the Customer Segmentation (Clustering) project. It follows your requirements: starts with English, assumes a single author, maintains a professional/academic tone, and contains no emojis.
+Here is the **README file** for the Customer Segmentation (Clustering) project. 
 
 ## Author
 * Nukri Munjishvili
